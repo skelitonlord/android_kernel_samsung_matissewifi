@@ -1403,7 +1403,6 @@ help:
 	@echo  '  modules_install - install the module'
 	@echo  '  clean           - remove generated files in module directory only'
 	@echo  ''
-
 # Dummies...
 PHONY += prepare scripts
 prepare: ;
